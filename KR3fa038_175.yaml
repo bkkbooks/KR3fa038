@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/175
+seq: 175
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 觜宿名星觜宿三星兆旅軍座旗直指透天門眼前小醜休司怪彗孛加之帝出征三軍之候主收斂萬物觜宿明則軍儲盈實將軍淂勢動搖失色大兵亂起明盛芒角盜賊羣行暗則出兵主敗座旅明則尊早有序不見上下無常司怪不見陰陽不和妖怪百出曆官失戰並主戰凶
+  hash: sha256:383d57a72ab02ddc685c4112a2518ae4890628b92e733ab7ff43241be64f6849
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:cf1da48a0c93a3b1d89b3fcc032f976c12137957779c5f60535a41ca0405a5b0

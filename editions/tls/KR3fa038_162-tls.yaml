@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/162
+seq: 162
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天廩明則年豐暗則年歉黑則食腐爛天國明大豐稔微小芒角歲飢大陵明大兵起就聚兵起多死喪芒角人设如山昴
+  hash: sha256:d3435fd3d01c90f4f50d476dfac01df34a1ccf4b532ba3e4d7fc077090a3e597
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:c5a83b06470ee1cfc42cc24187f48e045ae57b310305a476158545e3a5b7d056

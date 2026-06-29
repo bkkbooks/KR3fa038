@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/266
+seq: 266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 諸侯宗正宗枝不和氐元陰謀起于內朝梗河胡兵作亂日星君王作亂天輻輦道有變積萃冰輦亂起天問賊臣起兵蓋屋大興土木敗回歲飢兵起天涃國祚不安王井主水羽林軍兵亂國危天錢財多耗散鐵鉞礪石兵亂臣誅王良津梁不通天倉天庾糧米不耗天廩天稷歲凶人飢畢宿北胡兵起屏星人民大疫天厠屎星歲凶人飢
+  hash: sha256:3bedfe9f63725b70fc5f43c1d73fb2083ca4cd08c8a117b33133931c175afe5f
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:51b01932178fc4750869527460d15218838134b53b3179b2d871636856447d43

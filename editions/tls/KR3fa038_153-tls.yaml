@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/153
+seq: 153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天溷動移主人不安軍南門動移兵起不見兵乱開道不見輦道有宮移徙兵乱明則馬賤附路星亡輦道不通王良芒角明光近御謀逆娄
+  hash: sha256:5658cd4b6a35b80347c7bdb37a23076f7648c84964839decf2aa2c216de32dd8
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:2832e01d6f0742d208c18a7f3877bb10075863a889d77c0372e82d52836551a9

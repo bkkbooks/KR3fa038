@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/234
+seq: 234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 栁宿赤色火灾動久守天下兵起星宿五谷不登盜賊竝起張宿內出兵起翼宿王道興文土用久守大臣責五谷傷人維凶魚貴兵大聚軫宿國有喪水星名辰星一年一周天春見婁奎夏見東井秋見角亢冬見牽牛出入以辰戍丑未出早主日蝕出晚為彗星冬不見陰雨春不見大風夏不見主旱秋不見主兵其性主智主謀智虧謀失罰見辰星常隨日前後不可妄見見則夷狄兵寇宰相灾四季不見天下大飢出水失時邦有大飢人死當出不出為擊卒當入不入為漏明皆主兵亂水失行度非時光明天子以薦人為后
+  hash: sha256:f65dde23ed8e04e078d499aa01acd9d754b30d21a7e82caf43261116d6c744eb
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:e1e15be740ca3c114cb972cd65c4851981dfa848a79be4902292afd4abfd2ccd

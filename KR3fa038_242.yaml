@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/242
+seq: 242
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 火守犯北斗兵起大旱火灾守天牢火旱灾人相食守太微常賫國有喪火入長垣胡人入國守文昌文臣灾憂國亂兵起入犯紫薇異姓者王守三台勛臣灾難久守兵起火入亢折威兵灾火守天市垣米貴殺奸臣芒角失色火灾守天田雷雨盧梁歲飢火旱灾兩攝提天下大亂更主列肆尾宿天下兵起米谷貴氐宿大臣相譛逆行失色后妃大臣灾久守有赦房宿兵起有赦十日火灾二十日臣叛子逆兵旱百日大臣亂日星人主憂守犯大火之次光明黃潤天子更變禮法振奮威刑心宿地震久守臣謀主色黑天子凶箕宿天下亂久守大臣誅上水如海
+  hash: sha256:0afcd314dcdfd96a9a095adbb303b0e092287dfc0e3b423c64d9b944535ddd43
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:89665b6747775eb7366e39eec30a4706c88b52fd3dfc2433c568cafff9831ba0

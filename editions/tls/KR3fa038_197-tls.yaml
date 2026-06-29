@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/197
+seq: 197
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星宿星名星宿栁下似鈎形更有軒轅頭上明天相內平天稷寔彗妖守犯乱臣與主衣裳文銹主急兵盜賊星宿明則王道昌賢臣用暗則天子灾賢臣不用天下空虛動則兵起失色芒角女妃灾賢臣誅內平明則刑罰平暗𡨚獄滯軒轅明小吉盛大后宮爭競移徙國人流離兩角張開後族數弱
+  hash: sha256:ca0c640bc7e2582e2ece93d22ed1c7234bf0d86a9fb79e12e16015f8d19e9dcd
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:a34d14ed572228b417daac72f903ceaa8e1464819e90a5e9244c2c0ea5c8b570

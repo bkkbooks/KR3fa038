@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/141
+seq: 141
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 室宿星名室星雷電逵離宫壘壁螣蛇及土公北落門前懸鐵銊羽林軍列八魁中為王者宮主土事為軍壘室宿明國昌暗廟祀不享動搖土工興兵亂起離宮鈎已環遠左右逆行后妃被斥或崩殂后黨被點或宮人與外人相通雷電明則暴雷作怒動搖非時擊物壘壁明大動搖兵起螣蛇明人物傷移南旱北水土工明盛動搖土工大興北落明大軍安暗小天下兵起鐵銊暗吉明兵起動搖兵大亂八魁明兵盜多起羽林軍動搖兵起亡則兵亂將軍死
+  hash: sha256:d96b92971a3af845cbe73a9a8588af92cfc5face350f18104ccd704d40a2b326
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:6df7d918d510d0f9840dd2f3a7fc98bf2738f21247109f087c8f9b0d34f4a101

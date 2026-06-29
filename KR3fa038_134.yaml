@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/134
+seq: 134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 危
+  hash: sha256:f9a49ff9a3238c0f7a80c5b3624894148a96ae7f60279c4604d7cb6a919cb812
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:ae01aa389c84c4a7721bb154c4ac4886f07bcf4a7f964abd9c79477d3cf29b2e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/145
+seq: 145
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宿星名兩星直下稱為𨐧雲雨之旁名霹靂土公天厩兩依稀鐵鐲深深難出入主國書文薄之府𨐧宿明王道行君子進暗而失色王者好武經士不用雲雨明則多水霹靂明則起兵土工動搖明芒角土木工火與天厩明馬肥暗馬不見牛馬多死鐵鐲明則郵駟煩兵事與府庫不謹
+  hash: sha256:dfdcf90d86373d272cdfdd19fe7f70337894dccadafd0a679d24f32a7e89533d
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:8f314957ee57f51223233fc4587d84e491fc336abaa520878cdc8c24b54e4326

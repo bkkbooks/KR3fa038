@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尾宿星名尾星鈎樣夹神宮傳説天宮耀漢中魚子歸星掩映𠰥還聚就水洪通上一星為后後三星為妃後五星為嬪妾尾宿均明后宮有序多子息微小暗亡各主灾動搖君后不知天下乱就裘主水火灾大㓙神宮解衣之內室明大芒角主內乱傳説明潤后宮子多暗小少子動搖后妃不安星亡天子絕嗣天江明大暴水至動搖主大水兵起不見津梁不通魚子明小風雨不莭動搖暴水至出漢中人多病絕龜星明潤名和不居河中川水至
+  hash: sha256:c9e77e993e173f1e6d9060cd1b19fca6a65cddaa6dfbce7aee39579c62bccf1e
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:8452b270353eb700691390c2df30f1afec5475c36f54600e4f4cb07ed3d7b5bf

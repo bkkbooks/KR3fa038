@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/95
+seq: 95
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 元宿星名元宿四星似彎弓大角相遠兩攝提元下有星還照映頓頑陽門與折減元宿明大輔臣强納終人無疚疫動搖人多疾病暗則國政弱大角明潤天下和平動移變色天子憂散亂王者離散折威盛大兵起芒角兵大亂左右攝提明小天下安寧盛大芒角三公恣欲人主怒頓頑明則獄訟理暗則刑罰濫陽門明則四夷賓服則蠻夷犯邊氐
+  hash: sha256:76bc25c1daf4b0e43678f52e06dac7df596afa36c1e465ffa314cdb195f7d9a7
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:6cd80747af1128987954c1301bb7b0f2a0dec6ea9a6e0271393afe1d619513f2

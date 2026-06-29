@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/268
+seq: 268
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 軍市軍民粮阻絕噐府禮樂廢兩轄兵起陽門外兵動南门兵至杵星米貴兵急壁星多風雨多灾害天廟祠官有憂良星占良星乃德星名也其明大而中空找三星相聚赤氣中國昌文士出壽星大星在西光明黃潤天子壽考多歷年数祿星黃光在赤氣中國昌文士用世景星如半月黃光任用文士天下太平周伯星黃光照光所見之方有大喜慶舎譽星明如彗明出國昌軍德蠻夷入貢天保星流星隆于四崇有墜方有喜但防火灾慎星赤光四六半衣現步主十月之內有兵
+  hash: sha256:2bb961c04d8d52599e887f1e574020a50b3e580c7e0129da068c5d94c8a0ba78
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:be92f1c1d9b4fffbda2ab34b13291655514e7b6b33d3ea40c8ade23f2dfd613f

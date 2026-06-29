@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/252
+seq: 252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鬼宿大臣謀逆久守大旱人疫米貴星宿五谷傷損天狗人飢歲凶張宿食盡有灾五谷傷損軫宿楚地兵五星合宿五星合宿名曰凌德君失宗社百姓灾凶四星合宿名曰大盤旱民屬百姓飢更主侯王兵喪三星合宿名曰鱉主天子絶行百姓飢更主侯王兵喪五星芒角名曰激大旱灾與兵起作亂合聚昜行無德宗廟失國家亡民怨兵起有德受慶于天奄有四海五星聚於東方中國平康五星聚於西方外國强盛金木合宿兵飢將危
+  hash: sha256:eee18d1918adb1197ed8d2b196e1afc62127f2c9a91cc73387aac1de812c5b5e
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:89f278d9b1fa01c26553f3813a9cc2533730aa0bfae1d31ad45c4c1ed73ee86d

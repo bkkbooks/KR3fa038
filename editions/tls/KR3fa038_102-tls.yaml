@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/102
+seq: 102
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 房宿星名房星直下帶鈎鈴徤罰依稀夾兩咸旁有一星名歸日從官日下耀星纏日月五星之道曰四輔曰天駟又主明堂之所房宿明大羣臣和平暗小羣臣乱政王道虧損盛大芒角兵起星離入流離中二星踈折減有星主動河流星妄用兵不利鈎鈴明小近房天下共心遠於房天下不和王者絕後
+  hash: sha256:e5ae7dda7354c85c9d1bd33c669ab3bf9b4f0d66ff8f0eb919be89fe1b5c49a6
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:577fd7d18b5e87891e4ec67f607f03b5b8d7fd149a07078d432616c99191a9c5

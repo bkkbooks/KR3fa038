@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/151
+seq: 151
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 奎宿星名以下西方七宿奎宿元伴上之精外屏天溷閣道成附路王良真有忘為陳一策軍南門天之武庫主邊兵奎宿明小吉暗則臣下有于命者又起白衣會称兵于山谷芒角帝政淫佚動搖則兵起王者宗祀不潔光熖近臣謀叛起兵又王饑司空光明黃大天下不安策星移動兵起外屏不見移徙人不安蕃衛不謹
+  hash: sha256:0df77d97c1ae7eaf70699eb5017a67e38711da5b4febb4a62005ed130945bab8
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:98c5ea78c013f84df90f6bd07ceb68be9e2ea16b7f2ea6d775a24221643f4068

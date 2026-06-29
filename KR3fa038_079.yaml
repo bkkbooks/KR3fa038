@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太微垣星名北斗至後太微宮左右執法垣西東帝座內屏諸侯位九鄉謁者及三公幸臣太子從官列即位更與常陳逢即將虎蕡夾左右三台左畔少微通長垣之下靈台設還有明堂出政同帝座光明天子從容中道則君昏宜急求賢才以自輔內屏光明潤澤人臣尊敬君王執法芒角移徙行政苛刻
+  hash: sha256:d644b4647d96c986ca048a5bbfdbbe805415e13e3b7861b9cbb63a2ca1afc24a
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:eb77bb023f5da1c8998de9e2987fee8b955f9c2ab029b3fe04edda47e480a7c0

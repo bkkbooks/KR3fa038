@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/226
+seq: 226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 入亢邊兵起金守天市垣兵起人灾建星萬物不成天狗鶉外夷兵起天田水灾人飢虛宿國政急臣謀君兵起血流金犯女宿布帛貴守女宿布帛貴兵起婦女多死天壘城夷人犯邊盜賊侵害危宿主兵革金犯守虛梁兵起守離宫兵革散久守兵火起天錢賊兵虜掠羽林軍兵亂為灾𨐧宿王急刑罰奎宿大水洪流久守兵起婁宿白衣會兵起赦天下月戴金星主急兵守兩更兵起山澤之間胃宿君王有倉卒之變
+  hash: sha256:774df3bf8a19450ebebc9c5549d7b39c59a24ec78dad18e0759dc45dbd35fce0
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:f89fc008a2925c443cf474d24a906820d840635efb7ed6265b762ec486cda77f

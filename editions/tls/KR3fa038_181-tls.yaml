@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/181
+seq: 181
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 玉井明盛主大水屏星不見大人寢疾軍井不見軍主之水天厕黃吉青白㓙黑死星亡主蹈厕死伐星明盛兵起天屎黃豊青黑傷遭虫白水赤旱星亡大飢井
+  hash: sha256:e7ef0af667112bbb37721d3fe75547c5fcb2d22bd3287ae30e868066ff6dd9df
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:a94432d58340cae04d625c8c4ee0ac716826b8df59e4dff3ddfd2924f3a52a79

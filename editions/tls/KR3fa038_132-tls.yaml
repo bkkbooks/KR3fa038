@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虛宿星名虛星两两射司危司禄司非两並居敗臼壘城相哭泣不妨司命合離瑜冢宰之战祭祀喪哭泣虛宿斜欹上下不正祭祀失禮司危明大主喪亡者驕佚司禄明潤爵禄公暗則奸邪竊司非明大侃㸔言使司命明盛人多死敗臼亡則人飢流離榔中天壘明大變動至移犯過邊哭泣明大國人主悲怨離瑜明大後宮奢侈微小后宮儉約
+  hash: sha256:007efff1c6ec3d1dfd847c9f74fd745df5d0ff89687a1ef8baaa7b7cc4bdfb44
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:a26183409846a6f44441cdf5029d158b6854f2417409b80fe1d1eef813940cfc

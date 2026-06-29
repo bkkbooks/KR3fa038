@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/markers/242
+seq: 242
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa038_tls_001-p98.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup92, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR3fa038_tls_001-p98.s2}
+  - {type: line-break, offset: 11, content: '', id: KX_2_dup83, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3fa038_tls_001-p98.s3}
+  - {type: line-break, offset: 20, content: '', id: KX_3_dup81, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3fa038_tls_001-p98.s4}
+  - {type: line-break, offset: 28, content: '', id: KX_4_dup81, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR3fa038_tls_001-p98.s5}
+  - {type: line-break, offset: 36, content: '', id: KX_5_dup77, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR3fa038_tls_001-p98.s6}
+  - {type: line-break, offset: 47, content: '', id: KX_6_dup74, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3fa038_tls_001-p98.s7}
+  - {type: line-break, offset: 55, content: '', id: KX_7_dup70, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR3fa038_tls_001-p98.s8}
+  - {type: line-break, offset: 66, content: '', id: KX_8_dup64, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR3fa038_tls_001-p98.s9}
+  - {type: line-break, offset: 73, content: '', id: KX_9_dup62, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3fa038_tls_001-p98.s10}
+  - {type: line-break, offset: 89, content: '', id: KX_10_dup58, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR3fa038_tls_001-p98.s12}
+  - {type: line-break, offset: 101, content: '', id: KX_12_dup76, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 110, content: '', id: KR3fa038_tls_001-p98.s13}
+  - {type: line-break, offset: 110, content: '', id: KX_13_dup75, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR3fa038_tls_001-p98.s14}
+  - {type: line-break, offset: 121, content: '', id: KX_14_dup74, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR3fa038_tls_001-p98.s15}
+  - {type: line-break, offset: 136, content: '', id: KX_15_dup69, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR3fa038_tls_001-p98.s16}
+  - {type: line-break, offset: 140, content: '', id: KX_16_dup67, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR3fa038_tls_001-p98.s17}
+  - {type: line-break, offset: 156, content: '', id: KX_17_dup63, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 164, content: '', id: KR3fa038_tls_001-p98.s18}
+  - {type: line-break, offset: 164, content: '', id: KX_18_dup62, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 169, content: '', id: KR3fa038_tls_001-p98.s19}
+  - {type: line-break, offset: 169, content: '', id: KX_19_dup60, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR3fa038_tls_001-p98.s20}
+  - {type: line-break, offset: 189, content: '', id: KX_20_dup59, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 203, content: '', id: KR3fa038_tls_001-p98.s21}
+  - {type: line-break, offset: 203, content: '', id: KX_21_dup55, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:431441e0711e230c8bf64450001b52a92f4f6102032da284b3023ef69b737799

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/232
+seq: 232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩咸搖動天子淫泆無度尾宿太子灾久守后族逆𡡮妃賣權至旱箕宿轂貴人飢后宮多口舌牛宿大水灾山澤猛常傷人建宿歲飢人餒女宿大水灾人多凍死虛宿昭穆失序人多飢疾瓠𠂢𠂢果不熟魚貴離宫東有喜西米貴南旱北喪憂危宿天子大興宮室奎宿北夷懷服墳墓宗室不敬有哭泣𨐧宿大臣有灾婁宿牛馬多死米貴人飢有赦胃宿人多病死久守五谷不實昴宿米貴人飢君嚴刑罰觜宿人飢久守將兵在道五谷損傷參宿歲大疫井宿王法多獄訟守七十日天下更變有赦鬼宿國有兵喪久守天下半死
+  hash: sha256:4b23f47675b00fe62e8cb12163a285c28dcece30e2165b143d14f4d1253ce540
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:3b56de18ece3365ad0b30f1d3fe7c4d0e3274181112d92f56869e2e6fdda1712

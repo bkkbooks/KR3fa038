@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/129
+seq: 129
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 奚仲明盛芒角兵起扶筐暗而移絲棉不成星亡女工失業諸侯星各變色國亂兵戰虛
+  hash: sha256:49b2a1fff6aa597752f3ef9a27095fc381e28a6cc7e25b9b03bf5246f74745db
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:46c35c415d978a32850bfd591562b95895ac0cf960ae78af8a931364f5624dc9

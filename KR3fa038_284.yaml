@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/284
+seq: 284
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以方位為主以風為客方位以先天方位為準離方生宮風防失土地震巽方免宮風必護土地坤艮方生商風防失輻重離方克商風防截糧米後坎方生角風得敵輻重前乾兌方克角風可截糧米震巽方生徵角防火焚營坎方克徵風可灌敵營乾兖方生羽風防失賞賜坤艮方克羽風可截敵水宮風來乾兌方可復中土宮風克坎方敵毒其水商風衷坎方可淂兵動商風克巽方敵截糧道商風來離方防敵火攻角風克坤艮方可焚敵土徵風來坤艮方防敵分工徵風克坤兖方敵奪輻重羽風來震巽方防敵灌水
+  hash: sha256:624ec3707a8bc2e40052a0bb5cb2166b0837374e74dbf30cb8fb857e45b30f0e
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:ae155e48c3865a863569dddcf0ad8445862c3852d58b3b1bca961b3023301132

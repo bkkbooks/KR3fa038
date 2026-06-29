@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/93
+seq: 93
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平道明正吉移動車駕有慮天門明則萬國来歸暗則邊兵動進賢明則賢良用暗則小人肆志衡星芒角反庫中星不見兵起明而動則兵出亡則國不安庫楼明大芒角主乱干戈動元
+  hash: sha256:dc9bda8fb3afc8536b5f63941ce2ba780357d9af3bfad77cf4d925e9b6831278
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:e915f26a4f8336e67ff691b60b23a9ab8dd3a1123285f0839f65c6d688270777

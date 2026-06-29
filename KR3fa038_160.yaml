@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/160
+seq: 160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 胃宿名星胃宿鼎立大河嬪積水天船也伴明天廩滐藏天困畔又見積尸埋大陵為天厨主倉痯事胃宿明廩實天下平暗倉虛米貴就槩轂貴星亡兵起動則有輸邊事積水明大兵水為灾積尸明大人死如林天船明大多水不居河中津梁不通移徙不見兵起
+  hash: sha256:180b6bd997e58b36971e1429040424741259de0dbf29590d9b1eb6a12b6f4432
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:5f55948c1de8a6c703d0eef6055242f2738f420abf6a57c4c3e1a6a17adbbfbd

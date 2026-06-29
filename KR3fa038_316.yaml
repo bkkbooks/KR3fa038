@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/316
+seq: 316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道光壬寅仲冬之望此書乃燕山廣樹人先生藏本玉甫原字藎臣宗室豐烈畫於尚志書屋古香齊主人志
+  hash: sha256:6fa2b9ee6f1d5fd0979e050ab05dbd01cec65d96fc9fecff77c86052205e2e4d
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:56be836851900deeed2b3bfde801010ce90038b4ba2316188545eace287ffb93

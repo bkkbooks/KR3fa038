@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/218
+seq: 218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鞏昌府慶陽府延安府文府慰寧夏龍安府鬼雲南府大理府臨安府楚雄府徵江府保寧府敘州府重慶府嘉定府雅州府瀘州眉州岷州府洮州府曲靖府栁河南府張南陽府翼軫桂林府栁州府慶遠府平樂府潯州府南寧府武昌府漢陽府襄陽府德安府黃州府荊州府岳州府長沙府衡州府辰州府永州府栁州沔陽府安六府䕫州府亷州軫寶慶府靖州府平涼府施州府天文秘㫖卷之三終此本共篇
+  hash: sha256:d7b6b21a3f31f9f0601cc63b4509aedc7c83e0069e32bb5402863cdcb6a83f3d
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:03bde13c42b4438687de1d01d25363032809ee29f82163689999b913c9a4fb10

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/83
+seq: 83
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三台均明君臣和上台踈而色赤君剛愎用兵中台而色白諸侯夷狄侵犯下台踈而赤鄉代付奸邪星芒天下亂天市垣
+  hash: sha256:ba0c6d7ad9d0e46b3a60b73b4fa9dc9ed8410d31617a4808e5c987d4047cc179
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:6711cc4363623554df3765048aaa377ec64624a68a21245eb67f6489a4d203ca

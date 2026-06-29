@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/230
+seq: 230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天困歲凶人飢昴宿胡兵大起畢宿天下口舌橫議參宿國臣更張大臣作亂兵起于邊主生謂太白渴入井為千觜宿井宿國昜政兵盜起參中天子失位兵喪栁宿兵勝益地將軍有喜鬼宿國有大喪將軍灾憂張宿天下昜改亂臣兵起星宿兵起軒轅皇后失勢翼宿兵亂軫宿水灾楚地兵起
+  hash: sha256:20af22b687ceafddc0002bf37ec74f292c6d6c4ec57464a2cb26f085e31da3cf
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:eecd9cecb3089b31fdeaa159c10bcd470428eb857cadf6423f518892e1722fc6

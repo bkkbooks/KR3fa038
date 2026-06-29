@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/254
+seq: 254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金合火同宿臣灾將諸金合水同宿兵乱水灾金合土同宿歲㓙兵起木合金同宿白衣會兵起木金火同宿旱灾臣誅木合水同宿陰謀叛逆木合土同宿歲飢人死水合木同宿水灾兵起水合金同宿大水為灾水合火同宿水旱為灾水合土同宿大水漂城火合金同宿兵乱國危火合木同宿兵起焚宮殿火合水同宿兵中民死火合土同宿兵叛將相灾土合金同宿不可舉兵土合木同宿兵起歲飢土合火同宿陰謀革命土合水同宿歲時飢饉流行占
+  hash: sha256:279cc8604c756d55d71d590aa64b1119112fb3f4fefaeed09919aaad0190fb5c
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:aa378490b402f63903402385eb29e53b5c397549268ca32c142b85a9679eeae9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/91
+seq: 91
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 角宿星名以下東方七宿角宿頭上頂天田平道天門及進賢衡鎖庫樓連五柱南門樓外兩星橫角宿左角主邢右角主兵明大天下和平動移王者出遊暗及芒角國失政弱小國弱强大國强周鼎不見連祚不安移徙人民沐離五柱半不見天子自將出兵天田明潤歲騐不見五谷不收南门明則遠人来賓
+  hash: sha256:df13d5abccbefe2eb16b1a081dcd08c07f5c0654156964d4e6dc289121bb622c
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:9ffd0a9ba2fec8460b3507b2497a929e7223cef6485a45a52e0073292a934335

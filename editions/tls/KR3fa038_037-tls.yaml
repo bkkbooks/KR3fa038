@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/37
+seq: 37
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黄霧四起臣下叛逆野外兵起天地水風國變屠戮上下同灾天色变常地震連日奸臣謀叛女后專權黄氣貫斗遶樞國生賢子良将出黑白氣貫斗遶樞國生惡子暴臣乱政
+  hash: sha256:1acd41cd24ce41c7046c32e8c738876f4be8329aabd391796e6da6f607a5a7a4
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:10eb4d6057d7be9a0b4ea491dafc16fd1799c55206757dc0e264b6cb51ea87e6

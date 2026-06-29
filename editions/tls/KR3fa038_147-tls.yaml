@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/147
+seq: 147
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古香主人原字藎臣烈書天文秘㫖巻之二終此本共记二十九篇
+  hash: sha256:4a8c0e00e5460fed262440864cd498f904571bea1458c3d0b47bf5be5bbcb0ad
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:b2021e7535214179ad1128dce314e548e331c884a12d83f87a4bf72662ae5eec

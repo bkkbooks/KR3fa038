@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/104
+seq: 104
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 健閉明大宮掖不謹有人亂宮奸邪公行芒角動搖開肆不通罰星正直明潤法令平曲而暗刑罰失當兩咸明吉暗凶盛大天子淫佚日星明潤君德昌暗小君道弱從官明盛芒角巫醫擅權心
+  hash: sha256:5c8929d8319b7a35e859427f7d7a67d4fbb56d5a0078e160dbe329a6c1052a62
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:6a0acaf2463d3d4de2f0a941a3d1823b514c08585f7b93a4d1faf3802a23bab6

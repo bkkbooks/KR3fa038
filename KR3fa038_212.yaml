@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/212
+seq: 212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星辰羅列於天畫夜旋繞一周故其昏旦各有其星現於中位即其星可以知天之轉動也立春雨水昏參中旦尾中驚蟄春分昏弧中旦遠中清明轂雨昏星中旦牛中立夏小滿昏翼中旦女中芒種夏至昏亢中旦危中小暑大暑昏火中旦奎中立秋處暑昏建中旦畢中白露秋分昏牛中單觜中寒露霜降昏虛中但栁中立冬小雪昏危中旦星中大雪冬至昏壁中旦軫中小寒大寒昏婁中旦氐中中者南方正午之位陽門之其星至此分外光明而無一點掩滯之患故考星者必於此地而考之
+  hash: sha256:08c709f8aadd8e7c662c99c3379e038b425fc5ba1e6776c82d42fd2f27812ee2
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:08df706b710bff113397b81f91adbd31a7a90b9b57a158c219a9e57e2a77ac03

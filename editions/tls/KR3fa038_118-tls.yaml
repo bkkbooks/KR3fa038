@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/118
+seq: 118
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斗宿星名以下北方七宿斗星原與建星連天䈁圓圈鱉宿邊天并天鵝名狗國犬人一点守天渊日月五星之道丞相太宰之位主薦賢主兵樓斗宿明䘵公天下平暗大臣失位芒動兵起移徙大臣逐建星動搖人民劳苦天开明吉暗㓙天䈁明吉暗則開菕無禁
+  hash: sha256:aed94be50dd2ea941c78568b92e87e6c853288258d4d49f118535b54b2ced9d4
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:af3964fd34def9c650b0bfcd35e4a45397d260f5b275282e57f2a783c570bf68

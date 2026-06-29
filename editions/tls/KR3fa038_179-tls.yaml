@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/179
+seq: 179
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 参宿星名参宿七星連玉井参旗遶遶應將軍屏星軍井伐星應天厕之中天屎沉日月五星之道主邊城鉄越参宿明則臣忠子孝動移國殺忠臣邊候有警容伐主七星明天下兵精芒角王道灾失色軍敗散左足入王井甲兵大起秦地水喪山石為怪玉井外兵大起虎狼為灾芒赤耀橫射三軍動帝自將出兵中三星為夷狄胡鮮之國不微明大
+  hash: sha256:454b574b3e1ab2e06e941bee85ad35e593435388c49e35944b30254fcebe4bf9
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:13e702b74e4feb8fc38ae02baf9bdd727905e2fb51b8b090d15d792543761eec

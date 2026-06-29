@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/214
+seq: 214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十八宿分野角亢開封府亢氐汝寧府房心徐州府尾永平府保安府萬全都司尾箕順天府保定府河間府遼東都司斗應天府廬州府鳳陽府淮安府太平府揚州府徽州府池州府寧國府蘇州府松江府常州府鎮江府滁州府安慶府和州府廣德州南昌府南康府僥州府廣信府建昌府撫州府臨江府瑞州府袁州府吉安府贛州府南安府杭州府嘉興府豦州府斗牛九江府牛潮州府
+  hash: sha256:9aa7e450fa968a452859b7d64af86498f40a1ae424ba200c31ba367d53d51720
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:05688d5da6acbf222379ccfae091f2a677ac9ef90c3c1004635c4c6650eeab5f

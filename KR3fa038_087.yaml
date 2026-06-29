@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/87
+seq: 87
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天紀明盛多獄訟暗則紀綱廢亡則政荒不見地震山崩國打亂連貫天下兵起女床明大驕恣起於宮人貫所九星明大天下訟獄繁七星現小赦五星六星現大赦索中星多囚多星少因少中虛天于政荒口閉人多吊孔星入獄訟大星出外大赦小星出外小赦經星占經星乃二十八宿與衆星也或芒怒變色移徙觸躍此其氣之盛也或縮小就聚昏蒙無主此其氣之弱也各有灾祥之可占大端列縮循度安常則吉越度異常則凶其驗之甚
+  hash: sha256:aa96d6c60cb8888152eddd36d3a0a4210f075b18ffdb47c6531d784af55296aa
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:ce30172d8a331f64cedad5316c7cd4c5b2aed27964ec74aaedea739953a86855

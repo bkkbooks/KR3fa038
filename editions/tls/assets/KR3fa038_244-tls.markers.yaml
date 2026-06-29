@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/markers/244
+seq: 244
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa038_tls_001-p99.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup93, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR3fa038_tls_001-p99.s2}
+  - {type: line-break, offset: 17, content: '', id: KX_2_dup84, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3fa038_tls_001-p99.s3}
+  - {type: line-break, offset: 29, content: '', id: KX_3_dup82, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fa038_tls_001-p99.s4}
+  - {type: line-break, offset: 40, content: '', id: KX_4_dup82, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR3fa038_tls_001-p99.s5}
+  - {type: line-break, offset: 50, content: '', id: KX_5_dup78, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR3fa038_tls_001-p99.s6}
+  - {type: line-break, offset: 56, content: '', id: KX_6_dup75, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR3fa038_tls_001-p99.s7}
+  - {type: line-break, offset: 69, content: '', id: KX_7_dup71, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3fa038_tls_001-p99.s8}
+  - {type: line-break, offset: 84, content: '', id: KX_8_dup65, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 91, content: '', id: KR3fa038_tls_001-p99.s9}
+  - {type: line-break, offset: 91, content: '', id: KX_9_dup63, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 99, content: '', id: KR3fa038_tls_001-p99.s10}
+  - {type: line-break, offset: 99, content: '', id: KX_10_dup59, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3fa038_tls_001-p99.s12}
+  - {type: line-break, offset: 105, content: '', id: KX_12_dup77, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR3fa038_tls_001-p99.s13}
+  - {type: line-break, offset: 111, content: '', id: KX_13_dup76, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3fa038_tls_001-p99.s14}
+  - {type: line-break, offset: 128, content: '', id: KX_14_dup75, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR3fa038_tls_001-p99.s15}
+  - {type: line-break, offset: 134, content: '', id: KX_15_dup70, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR3fa038_tls_001-p99.s16}
+  - {type: line-break, offset: 139, content: '', id: KX_16_dup68, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 151, content: '', id: KR3fa038_tls_001-p99.s17}
+  - {type: line-break, offset: 151, content: '', id: KX_17_dup64, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 169, content: '', id: KR3fa038_tls_001-p99.s18}
+  - {type: line-break, offset: 169, content: '', id: KX_18_dup63, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 177, content: '', id: KR3fa038_tls_001-p99.s19}
+  - {type: line-break, offset: 177, content: '', id: KX_19_dup61, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 193, content: '', id: KR3fa038_tls_001-p99.s20}
+  - {type: line-break, offset: 193, content: '', id: KX_20_dup60, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR3fa038_tls_001-p99.s21}
+  - {type: line-break, offset: 201, content: '', id: KX_21_dup56, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:2cc2d5f1fc0ec116b440eb21ef7f61e9f39517af87d9868e7390ca5b1817a6e0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/127
+seq: 127
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 女宿星名女宿星如箕宿形離珠相伴夾天津兩𠂢奚仲扶筐裡下有諸侯十二星日月五星之道主裁制布帛嫁娶事女宿明大年豐女工昌暗小國虛耗動搖天下婦女灾多産死變色嬪妃廢離珠移徙芒角後宮亂天津明動兵起一星亡津道不通二星亡天下陷覆星俱亡江湖水溢賊稱王𠂢敗𠂢明則年豐暗小歲歉移徙推山谷
+  hash: sha256:0618bf5f7bda7c08e05ebf19382ae7f7a7dd1e04a4e6cffaab772e3c1bc29991
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:9e736b43c5c2dcdf09405cd0a913492c53e50a81b146582986a432cf18c3086e

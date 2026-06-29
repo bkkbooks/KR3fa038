@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/114
+seq: 114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 箕宿星名箕星四點類筲箕灾兆分明應后妃箕下三星名木杵箕前一点是糠秕主后妃口舌胡兵亦曰天津箕宿就裹微細后灾天下憂動胡兵起有使来移徙百姓流亡明直大則五轂熟收入河中國灾人將相食甚角王爭闘大臣相諧水杵直年豊橫年歉不見人相食糠秕明則年豊暗則年歉不見天下米盡
+  hash: sha256:9dcc14f8ecde94b4fb831a8831ec26810af68526722d0a7183d325d760409ac0
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:5daa4806c8c76c459801ac50ad685b4d9d644a1512e7f16febbfca0fad2ca333

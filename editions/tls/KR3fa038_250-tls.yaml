@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/250
+seq: 250
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 房宿天旱地震乆守奸臣謀立兵灾心宿聖君出世黃光有慶錫之事芒角有赦乆守水旱不吉尾宿廢出正官盜賊害人箕宿水灾人飢兵赦斗宿有不用兵而升君位者牛宿賊臣害主天雞人飢相食虛宿風雨不時多風大旱危宿大興土木坟墓土工與旱灾离宫與造宮室將軍益對壁宿貴人用文章與君延壽天下寧奎宿逆謀久守貴女執政娄宿五谷傷損奸臣謀叛昴星后失勢久守大將出征西南流血参星大臣出使奸臣謀逆栁宿君臣和同天下大天厕人飢多病井宿旱灾乆守勾已有数笛東角不去天下無主
+  hash: sha256:ac4f5a69860e684444ade35e30f8a4e4f44d129463f688a69fdda3638268defd
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:bf5f13acab5fa7d6f7037b9f9d3c999c1f1a062331d4ce909d3bef3cf822f93a

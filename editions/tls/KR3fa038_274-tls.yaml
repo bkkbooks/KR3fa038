@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/274
+seq: 274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星變星殞星落墜下兵乱起荒旱人飢國君喪死星昇自下而上君上灾憂矢星橫飛而去奸邪謀逆同舎兩星共處兵灾益盛奔星大而去連灾害甚速星闘兩星相編兵起血戰星凌自下而上君危民灾星犯相去七寸以穜奸邪謀逆星守半年以上其禍極大星襲後行相及過而復回陰謀暗害星留守百日以上大禍難平勾西南相統剪除羽翊已東坑相勾成已已数奸邪謀叛琛遠周五了難其褐延綿玉甫書天文秘㫖卷之四终此本共记卄七篇
+  hash: sha256:8a4f2b5757065c06287cccb32a54511a7c953e98c4e8d5b56b8807346681760f
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:5ae1b9ff7861ca5d8a0babf75a8329e0a9ffee4e4ddd65e374b26ec9ca7a7690

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/169
+seq: 169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 畢宿星名畢宿附耳上天捯天莭諸侯天潢九城天五車口三柱高旅九游來日月五星之道主邊兵主刑殺主四夷畢宿明大四夷來𡩏失色邊兵動搖邊兵出一星亡兵散離散天下獄亂就法令酷附耳微小盜起邊兵動移入畢大亂三柱柱星出五車外來貴天街移徙不見兵起𨵿津不通九游動搖九洲人散民皆失業
+  hash: sha256:22fc975a408ee1210783cdb7f65c9565dbca51c126af1b36bb9c8c58d033e6fc
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:bb47e147164a37b4d25f8b0b297ee86a870e364aefd3c877ff402d7e8d215f82

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/205
+seq: 205
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 翼宿名星二十二星大難識上五下五橫著行六個似張六個附五箇黑星東毆芒翼宿明則禮樂興四夷𡩏動則四夷使來移徙天子舉兵伐四夷暗則帝王失莭禮樂不和失色民流離動搖三公廢東甌主東方諸夷芒角動諸夷作亂軫
+  hash: sha256:a785460a4252c7c29550451dc8f88a9e559f31516414b999740c5529bca0aba8
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:d222d00846ef953a4c1816aecdf0157fac12e237c3083221a2f341512f38b35a

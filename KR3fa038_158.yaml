@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/158
+seq: 158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 胃
+  hash: sha256:f31f69891ced3f1e14be98ccd0f8802d6fe070e7ca3fdcec85e1af847a18dd26
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:1506f8182ff9e757a9e7ad6e893720bcc3b899c05d7bdc2e7762fa1d8857ac31

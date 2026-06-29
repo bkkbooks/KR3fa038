@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/306
+seq: 306
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 畫霧如山兵水為灾夜霧畫明陰謀不成后灾臣難夜霧如城兵戎起乱風霾陰晦君臣離心陰謀叛逆黃霧四塞帝室將位叛臣革命黑霧不解寃枉之甚变為兵灾昏霧迷天君動失措陰謀暗害霧乆不散陰謀变乱上下為灾霧迷有露如雨君德昏蔽有臣輔政正畫霧昏如夜行政濫及謀逆起兵霧如脂污衣物君比淫明胡兵為華霧半月不散陰陽秒乱天下憂灾風起塵揚生霧畫瞑夜暗兵灾霧起塵搏如兵起乱黃霧君德龍不蔽絕道蔽賢灾至絕世大兵起霜占霜乃地氣上升即成霧露風搏氣遍化爲寒露陰寒又盛結而為霜露不時殺物誅殺之權不由君霜有芒角奸邪擅權陷害忠良
+  hash: sha256:39436ec2e4adc54a6d93d682fd6bc62db191dd7942af9fab3a2ddfe9ad1b4d7c
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:3780f3ebea6aa830e696fda0864982224a5d45bf6450aa0250277bdd0b854bdf

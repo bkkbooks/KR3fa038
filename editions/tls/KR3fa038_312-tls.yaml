@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/312
+seq: 312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虹見五七日天子出遊雲如虹方暴兵之象赤虹入人家大灾虹頭入井所見之方兵火為灾虹光交見色青民疫色赤火旱色白兵喪色黑水憂畫白虹君憂灾虹𡸁軍營宜急遷營以避破軍殺將不詳之事虹光景出奸邪成風人民淫慾虹見五七重傷物太重為灾極大道光二十有二年冬子月十二日抄完抄寫與原本無差玉甫原字藎臣述天文秘㫖卷之五終此本共记十九篇
+  hash: sha256:891bff4f271db9deebd678fac0a454d1516cb61c7f820a299f0eb1a7175c181a
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:ad398ca5c4e645b8d250658a10b4fffa239ffb008b0ee1cd75deaa00d04a1d6c

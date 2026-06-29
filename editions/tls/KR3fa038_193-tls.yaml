@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/193
+seq: 193
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 栁宿星名栁宿𡸁曲最為奇頭上三星號酒旗失色定僚饑饉至五星守犯大為主草木主尚食滋味主風雨栁宿明大臣慎重國安寧厨膳具二星直天下謀伐其君聚就主兵间失色饑饉滿道都邑震蕩酒旗在軒轅左角主宴樂酒食明則多歡娛之事
+  hash: sha256:a303375faba6a1caf3476ed205461beadf193bd428c63a9f85e7842fc0474c37
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:d4aee908828a49c513bdb724371987b36c2704318ade20b64502db3a2b68410e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/199
+seq: 199
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天相明小宰相賢芒角宰相强移徙主宰相憂天稷明大主年豐暗小饑饉人相食張
+  hash: sha256:108df51d23315b50920c484f4f8281540c1814aa8e10575ed2894e8073639fb7
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:b367ac63d37a268fa03984150ad89f4a059b3cd013482bb964ab0123499037b7

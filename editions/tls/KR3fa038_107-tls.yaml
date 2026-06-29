@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/107
+seq: 107
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心宿星名南方火宿號為心惟有中星色更明積卒相連心宿下四三攅聚主天兵中星天王之位近房之心主太子近尾主庻子心宿明赤君德昌天下和同暗則帝王昏弱前星不明太子不得立後星不明庻子伐位心变黑大人憂心直君失勢動搖國有憂芒角兵起人民流離積卒微小明潤國安兵間盛大兵起一行亡則兵出二星亡兵半出三星俱亡則兵盡出外尾
+  hash: sha256:67d7e4e46d97c174fd4cc1e1c9c0ad049ad494479a7005c2709c659f291abd3f
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:b3e4bb3fef3483f994d9a7a92b93746f06c0c9dd6dfef1cc0205e9b805e069f9

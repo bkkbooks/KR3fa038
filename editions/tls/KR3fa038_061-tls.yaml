@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/61
+seq: 61
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 畢中参中井北北河栁中張中翼中軫地金星水星土星月影正月十五日夜到午上用七尺長竿直立扵地中度之以側其影一丈九尺八尺以上皆主水涝七尺歲豐六尺大稔五尺田熟四尺虫食三尺旱二尺大旱一尺大飢疫日月會次正月會扵娵訾之次二月會扵降娄之次
+  hash: sha256:6d942f0b81cf5e54e7fcb709e5f34b99735ba606cd8d5ce2d4ec5f40f1cead2d
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:c1e2bb62f88f06adeea1174614d691294390e86dab00bec534c0051fa5ca71d1

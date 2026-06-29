@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/120
+seq: 120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天淵明盛芒動主水灾天難明則時令淂正天狗動搖賊臣亂屠戮人民狗國明盛邊兵亂起鱉星居河中主水灾星亡有喪犬人明則年豐暗則年歉不見人相食牛
+  hash: sha256:7e17828949653d4263e9e1a7f2ebfe37751fe3ce00939d8bf60640a5748fe2ed
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:62c8bb0a6b508c8e00bdfa3925da34e379a0f01de1ce904bf72b9399f7128859

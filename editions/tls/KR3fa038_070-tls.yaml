@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa038/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 玄戈明大生角圻內兵乱胡兵盛天牢暗刑獄煩明則政刑繁乱中有小星主貴人下獄太陽守安凶明吉星移內侍乱文臣誅漢書天文志言北斗九星按斗七星宗志云第八弼星不見在第七星之右第九輔星在第六星之左常見故稱九星也紫微垣
+  hash: sha256:310b7919a1bc413d4bd56dddf21cd9bc4f554e1950a4cce80c700644df9eabc7
+metadata:
+  title: 天文秘旨
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa038.xml
+hash: sha256:a828404013d340f0b3c06185b485426c90755f18bd512b5c7d5e73de6dfbed40
