@@ -12,8 +12,6 @@ markers:
   - {type: line-break, offset: 10, content: '', id: KX_13_dup41, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fa038_tls_001-p51.s14}
   - {type: line-break, offset: 24, content: '', id: KX_14_dup41, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 34, original: 点, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0704}}
-  - {type: substitution, offset: 37, original: 渊, replacement: 淵, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1137}}
   - {type: 'tls:seg', offset: 38, content: '', id: KR3fa038_tls_001-p51.s15}
   - {type: line-break, offset: 38, content: '', id: KX_15_dup40, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 44, content: '', id: KR3fa038_tls_001-p51.s16}
@@ -24,11 +22,9 @@ markers:
   - {type: line-break, offset: 75, content: '', id: KX_18_dup35, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 78, content: '', id: KR3fa038_tls_001-p51.s19}
   - {type: line-break, offset: 78, content: '', id: KX_19_dup35, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 84, original: 劳, replacement: 勞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0310}}
   - {type: 'tls:seg', offset: 86, content: '', id: KR3fa038_tls_001-p51.s20}
   - {type: line-break, offset: 86, content: '', id: KX_20_dup34, _xml_error: duplicate-id, _xml_original_id: KX_20}
-  - {type: substitution, offset: 91, original: 㓙, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3871}}
   - {type: 'tls:seg', offset: 92, content: '', id: KR3fa038_tls_001-p51.s21}
   - {type: line-break, offset: 92, content: '', id: KX_21_dup34, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:97fbc063fbf39cf26cb1cdc1f4deb2d6f75e9463847a896545620c927f1bc2e8
+hash: sha256:6688c19d404334480c23787e06c2ad59e5ab97446f27547763a21e499a2a4715

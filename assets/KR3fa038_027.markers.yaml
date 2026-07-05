@@ -9,7 +9,6 @@ markers:
   - {type: line-break, offset: 6, content: '', id: KX_3_dup13, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 12, content: '', id: KR3fa038_tls_001-p13.s4}
   - {type: line-break, offset: 12, content: '', id: KX_4_dup13, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 21, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1399}}
   - {type: 'tls:seg', offset: 22, content: '', id: KR3fa038_tls_001-p13.s5}
   - {type: line-break, offset: 22, content: '', id: KX_5_dup13, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 28, content: '', id: KR3fa038_tls_001-p13.s6}
@@ -18,7 +17,6 @@ markers:
   - {type: line-break, offset: 34, content: '', id: KX_7_dup12, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fa038_tls_001-p13.s8}
   - {type: line-break, offset: 40, content: '', id: KX_8_dup11, _xml_error: duplicate-id, _xml_original_id: KX_8}
-  - {type: substitution, offset: 47, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: 'tls:seg', offset: 53, content: '', id: KR3fa038_tls_001-p13.s9}
   - {type: line-break, offset: 53, content: '', id: KX_9_dup11, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fa038_tls_001-p13.s10}
@@ -45,4 +43,4 @@ markers:
   - {type: 'tls:seg', offset: 118, content: '', id: KR3fa038_tls_001-p13.s19}
   - {type: line-break, offset: 118, content: '', id: KX_19_dup10, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:f5ebde339141ed2671ff945e1636e1b6ebe67ff754cdcc451743d07a0cbbfbf1
+hash: sha256:e2a0e3420504cd3dc9d4d4e2f04121fa3335ea742ec23572d75329f90a1b7a2e

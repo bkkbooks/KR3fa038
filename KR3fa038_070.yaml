@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 玄戈明大生角圻內兵亂胡兵盛天牢暗刑獄煩明則政刑繁亂中有小星主貴人下獄太陽守安凶明吉星移內侍亂文臣誅漢書天文志言北斗九星按斗七星宗志云第八弼星不見在第七星之右第九輔星在第六星之左常見故稱九星也紫微垣
-  hash: sha256:99e7fdf145c4bff64e197f4358c8be675d4db9e1d3366ac5dbb84668b55c3017
+  text: 玄戈明大生角圻內兵乱胡兵盛天牢暗刑獄煩明則政刑繁乱中有小星主貴人下獄太陽守安凶明吉星移內侍乱文臣誅漢書天文志言北斗九星按斗七星宗志云第八弼星不見在第七星之右第九輔星在第六星之左常見故稱九星也紫微垣
+  hash: sha256:310b7919a1bc413d4bd56dddf21cd9bc4f554e1950a4cce80c700644df9eabc7
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:c906d39726cc0132b22767e1b9ae91e1b894409b13c9acee1280a1e5d9c0bdf8
+hash: sha256:a828404013d340f0b3c06185b485426c90755f18bd512b5c7d5e73de6dfbed40

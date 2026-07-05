@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 星象星乃少陽精借日為明旋繞于天朝拱北斗北斗歌訣北斗七星居北方一樞二瓐三璣場四權五衡為斗柄六曰開陽七搖光輔星宰相公師位太陽內厨勢尊當天乙太乙玄戈並天槍天牢及文昌北斗圖樣開後
-  hash: sha256:997ca4f8d525b9a2cac6fddc795927681a1ea6711444476a5f775e924e157515
+  text: 星象星乃少陽精借日為明旋繞扵天朝拱北斗北斗歌訣北斗七星居北方一樞二瓐三璣塲四權五衡為斗柄六曰開陽七搖光輔星宰相公師位太陽內厨勢尊當天乙太乙玄戈並天槍天牢及文昌北斗圖樣開後
+  hash: sha256:bcdb0385f7d46afdd233d2da51e0173cb85d7839f0609dbeb25f4417ca5f40e9
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:e72bdc2bc8fea1b7906c19875fff322ec765b0a5d993915e5ff5c16339c1b8f9
+hash: sha256:2d09613d814be63de499216c8348d5b2e78ffd3aedc37d59f9fa4b0eb278625b

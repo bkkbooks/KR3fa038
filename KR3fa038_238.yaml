@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 離宫水灾天子欲改王圖墳墓奸臣謀上奎宿水灾大臣入獄雷雨雨水大作婁宿水灾萬物不成行政等刻胃宿米貴水灾井宿有自王者尋破不成鬼宿貴臣執政伏誅水灾栁宿地震同地旱灾星宿水灾貴人犯罪張宿大兵起人多死婦女灾翊宿歲歉人飢離亡軫宿水灾五谷傷病起
-  hash: sha256:2a15015ea56d09acf39ba69d2785cf4527ac7801e5136758a314a31914c52e1f
+  text: 离宫水灾天子欲改王圖墳墓奸臣謀上奎宿水灾大臣入獄雷雨雨水大作娄宿水灾萬物不成行政等刻胃宿米貴水灾井宿有自王者尋破不成鬼宿貴臣執政伏誅水灾栁宿地震同地旱灾星宿水灾貴人犯罪張宿大兵起人多死婦女灾翊宿歲歉人飢離亡軫宿水灾五谷傷病起
+  hash: sha256:d20f6e1ce424bd3cbbc6a32e957887adc10159650bd5f1581cac18ddeadfbe72
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:bc6b05154bb8372fab8c7c9c36013fda972a75bc84b7d3ece73d3fa9903b19e3
+hash: sha256:0e753fddc8157b3259eae4ded210f15b8961597d3bad41c3fe07a239933d80f0
