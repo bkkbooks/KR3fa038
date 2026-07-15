@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 野雞明潤兵吉微小兵灾狼星明盛海兵將出芒角怒張盜兵拒賊病國丘明則尊卑有序天尊明小百姓足食芒角動搖或不見百姓飢餓鬼
-  hash: sha256:34178397591a3974f9c52d8e633d8f648f277f4bb098939ab7b5e5c421c06d68
+  text: 野雞明潤兵吉微小兵災狼星明盛海兵將出芒角怒張盜兵拒賊病國丘明則尊卑有序天尊明小百姓足食芒角動搖或不見百姓飢餓鬼
+  hash: sha256:14e32476f43de233c527c0d8dd7c2d04c00c6300f2fce2ab61140da75196d224
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:29a1f8dc45152cad477eba4dee24fd5651856fa24fb81e80e6600c99b2e8244d
+hash: sha256:4539829d427edc84f6f36fa623eba00a64443358cb8a3c98c1ac7760ce18bb07

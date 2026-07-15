@@ -5,11 +5,14 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa038_tls_001-p78.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup73, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 11, original: 强, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17538}}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fa038_tls_001-p78.s2}
   - {type: line-break, offset: 17, content: '', id: KX_2_dup64, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 18, content: '', id: KR3fa038_tls_001-p78.s3}
   - {type: line-break, offset: 18, content: '', id: KX_3_dup62, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 24, original: 豊, replacement: 豐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19974}}
+  - {type: substitution, offset: 27, original: 饑, replacement: 飢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16274}}
   - {type: 'tls:seg', offset: 32, content: '', id: KR3fa038_tls_001-p78.s4}
   - {type: line-break, offset: 32, content: '', id: KX_4_dup62, _xml_error: duplicate-id, _xml_original_id: KX_4}
   back: []
-hash: sha256:7dbd87ddc22e05d413053dd64d44ab4edd284e41dd4d68782e00594dd6460341
+hash: sha256:af4c228d09c38b7e3e2a040d9c8a6a3009129eeccd81805f30e569f50536ff05

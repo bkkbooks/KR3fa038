@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 頁三月會扵大梁之次四月會扵實沈之次五月會扵鶉首之次六月會扵壽星之次七月會扵鶉尾之次八月會扵鶉火之次九月會扵大火之次十月會扵析木之次十一月會扵星紀之次十二月會扵玄枵之次豐玉甫述天文秘旨卷之一終此本共記三十一篇
-  hash: sha256:7ef2f148786fe83903792dc3c2a4127dc32df1a552ae0940f34fe5c11ec69476
+  text: 頁三月會于大梁之次四月會于實沈之次五月會于鶉首之次六月會于壽星之次七月會于鶉尾之次八月會于鶉火之次九月會于大火之次十月會于析木之次十一月會于星紀之次十二月會于玄枵之次豐玉甫述天文祕旨卷之一終此本共記三十一篇
+  hash: sha256:da09cc55d57a5b0834280d5a14af03b26d388249985f6bbb9700d00ab4856ce7
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:f0d34d609df7c38519b482232dfef76e405afda79b046ca4a4e9f3744ccca74c
+hash: sha256:c84cca45bda93addb89b460586be59a31ce2f53570e9ecc05e7a23dd5fee1fe8

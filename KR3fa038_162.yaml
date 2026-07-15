@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 天廩明則年豐暗則年歉黑則食腐爛天國明大豐稔微小芒角歲飢大陵明大兵起就聚兵起多死喪芒角人设如山昴
-  hash: sha256:d3435fd3d01c90f4f50d476dfac01df34a1ccf4b532ba3e4d7fc077090a3e597
+  text: 天廩明則年豐暗則年歉黑則食腐爛天國明大豐稔微小芒角歲飢大陵明大兵起就聚兵起多死喪芒角人設如山昴
+  hash: sha256:63db69fab4118c66b6b7e7f7fb740befe48e305c03243ff99c6b558f12919cf8
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:c5a83b06470ee1cfc42cc24187f48e045ae57b310305a476158545e3a5b7d056
+hash: sha256:8ed403d33d6d6ba3587c0b1df6fba0718feabab98b3de2b1b0f11a705693885b

@@ -7,6 +7,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup39, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 11, content: '', id: KR3fa038_tls_001-p43.s2}
   - {type: line-break, offset: 11, content: '', id: KX_2_dup41, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 17, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fa038_tls_001-p43.s3}
   - {type: line-break, offset: 24, content: '', id: KX_3_dup41, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3fa038_tls_001-p43.s4}
@@ -15,7 +16,9 @@ markers:
   - {type: line-break, offset: 56, content: '', id: KX_5_dup40, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fa038_tls_001-p43.s6}
   - {type: line-break, offset: 60, content: '', id: KX_6_dup39, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 61, original: 楼, replacement: 樓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17564}}
+  - {type: substitution, offset: 67, original: 乱, replacement: 亂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16526}}
   - {type: 'tls:seg', offset: 71, content: '', id: KR3fa038_tls_001-p43.s7}
   - {type: line-break, offset: 71, content: '', id: KX_7_dup37, _xml_error: duplicate-id, _xml_original_id: KX_7}
   back: []
-hash: sha256:86c41aa989c56d926b936b30a6f20a556006f4e4c6c8115aacf95b20ff65d6d5
+hash: sha256:31bf046523ad057fbfe3741dbf4fa332e32d3ad624d30976b437c8696fb2e258

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 古香主人原字藎臣烈書天文秘㫖巻之二終此本共记二十九篇
-  hash: sha256:4a8c0e00e5460fed262440864cd498f904571bea1458c3d0b47bf5be5bbcb0ad
+  text: 古香主人原字藎臣烈書天文祕旨卷之二終此本共記二十九篇
+  hash: sha256:b6dc68e1d9111ec6e2231c818dbbb65ae9a60fea265065e9f377ad7aa09cff10
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:b2021e7535214179ad1128dce314e548e331c884a12d83f87a4bf72662ae5eec
+hash: sha256:a34ca7cb7d4e9809c9b64cf3be2bbbe1d0e423e6b00715f8885af90d1e18627e

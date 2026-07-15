@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 参
-  hash: sha256:562ac777223f47fe057a92b4f190de082ef7cd147d8a602fffaae40f6c370b2d
+  text: 參
+  hash: sha256:41008c62bf1e2b34be8a1f4b206ad28e0b9c4e1b38ec7d75f83d47a0aac7b7cb
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:931dfbc0c0308038aaf18f2247d0ce3e66a5f89be218ae21e580748c619d636d
+hash: sha256:8ff54ef2358a5d9a2fddb2f3ea1d45f87a64920adc12d87c8c0f82e045fc388b

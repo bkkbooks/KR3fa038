@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 黄霧四起臣下叛逆野外兵起天地水風國變屠戮上下同灾天色变常地震連日奸臣謀叛女后專權黄氣貫斗遶樞國生賢子良将出黑白氣貫斗遶樞國生惡子暴臣乱政
-  hash: sha256:1acd41cd24ce41c7046c32e8c738876f4be8329aabd391796e6da6f607a5a7a4
+  text: 黃霧四起臣下叛逆野外兵起天地水風國變屠戮上下同災天色變常地震連日姦臣謀叛女后專權黃氣貫斗繞樞國生賢子良將出黑白氣貫斗繞樞國生惡子暴臣亂政
+  hash: sha256:c11905ee3c93b72571f45841ba23d29dd5b91a12aafefed2d8f739e066e93d57
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:10eb4d6057d7be9a0b4ea491dafc16fd1799c55206757dc0e264b6cb51ea87e6
+hash: sha256:b5e94fdfe5018d7490a04aff872d3e39fe2ede2e07587f3c8f9da14d1a4d11e9

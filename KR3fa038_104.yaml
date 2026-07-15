@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 徤閉明大宮掖不謹有人乱宮奸邪公行芒角動搖開肆不通罰星正直明潤法令平曲而暗刑罰失當两咸明吉暗㓙盛大天子淫佚日星明潤君德昌暗小君道弱從官明盛芒角巫醫擅權心
-  hash: sha256:900390d0793d7ce8a17421a3c0b972d70443ad9bf760d88d6c7165f7c957f46b
+  text: 健閉明大宮掖不謹有人亂宮姦邪公行芒角動搖開肆不通罰星正直明潤法令平曲而暗刑罰失當兩咸明吉暗凶盛大天子淫佚日星明潤君德昌暗小君道弱從官明盛芒角巫醫擅權心
+  hash: sha256:297741dae284775e9029beba9f58fa12e753a685d4a42b1113f7ffaec7f53caf
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:166cd9d202425808fd59dd72eb45bb1a0ca18c2ae4c0fad10778891ea391cc22
+hash: sha256:de04c007bac7e5e2bbd339ce1b82d44d08606575e54f04e14030128bd6150540

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 天渊明盛芒動主水灾天難明則時令淂正天狗動搖賊臣乱屠戮人民狗國明盛邊兵乱起鱉星居河中主水灾星亡有喪犬人明則年豊暗則年歉不見人相食牛
-  hash: sha256:dc0c10dc9f6934f1aeea1a02ff6f9b3b1f6ec95f5bf8f4bf98d6ec4827905937
+  text: 天淵明盛芒動主水災天難明則時令淂正天狗動搖賊臣亂屠戮人民狗國明盛邊兵亂起鱉星居河中主水災星亡有喪犬人明則年豐暗則年歉不見人相食牛
+  hash: sha256:c59f706424801f68d7b1443c1ed4c70b95ba2c675c7c633b3698ff5a4f5aa3a9
 metadata:
   title: 天文秘旨
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa038.xml
-hash: sha256:b58bf32a3f0547946023b3d8e07da232275b04e664c7829258415abeb50364f1
+hash: sha256:fb95f3fd3ac3dd30ff69c605fd3652c9a2a363a760d6c47e45e62edc517b4c35
